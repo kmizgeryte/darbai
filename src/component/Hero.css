@@ -1,0 +1,14 @@
+.hero{
+    background: skyblue;
+    padding: 20px;
+    font-family: arial;
+    color: white;
+}
+
+.blue{
+    background: skyblue;
+}
+
+.red{
+    background: red;
+}
